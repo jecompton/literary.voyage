@@ -14,5 +14,17 @@ critical theories.
 
 ## What I'm reading now
 
+Although I've been finding reading a single book at a time most rewarding, I'm
+still finding it hard to escape my habit of having 4+ books going at a time.
+
 - _Lost Illusions_, Honoré de Balzac
-- Critique of Pure Reason (
+- _Critique of Pure Reason_, Immanuel Kant (Analysis, outlining)
+- _Best New Poets of 2014_ Laux and Danziger eds. (Just finished)
+- _Epistle to the Romans_, Karl Barth
+
+However, the _Critique_ is my 2nd read-through, and I'll probably be working
+through this difficult book over the next year or more since it deserves this
+treatment. Same with Barth.
+
+_Lost Illusions_ is going well, so I will be writing about it soon. I'm about
+halfway done with this portrait of early 1800s French life.
