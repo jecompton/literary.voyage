@@ -3,7 +3,8 @@ layout: single
 title:  "Join me on a literary voyage!"
 date:   2017-02-03 15:37:58 -0700
 comments: true
-categories: literature
+categories: news
+tags: reading-now
 ---
 
 I love reading and literary criticism. Join me on this literary voyage this year
