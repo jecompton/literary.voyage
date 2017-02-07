@@ -3,7 +3,7 @@ layout: single
 title:  "Adler Analysis"
 date:   2017-02-03 15:37:58 -0700
 comments: true
-categories: literature criticism methods adler non-fiction
+tags: literature criticism methods adler non-fiction
 ---
 
 ## How to Read a Book
